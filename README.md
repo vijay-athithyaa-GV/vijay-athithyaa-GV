@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Building+AI-native+systems+from+scratch+%F0%9F%9A%80;Agentic+pipelines+%7C+Full-Stack+%7C+Cloud+%7C+Robotics;Competitive+Programmer+%7C+Problem+Solver+%F0%9F%A7%A9;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
 
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-
 </div>
 
 ---
