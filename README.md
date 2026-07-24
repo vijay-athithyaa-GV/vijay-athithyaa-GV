@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=D2A8FF&center=true&vCenter=true&width=850&height=80&lines=Vijay+Athithyaa+G+V" alt="Name" />
+<img src="https://raw.githubusercontent.com/vijay-athithyaa-GV/vijay-athithyaa-GV/main/assets/name.svg" alt="Vijay Athithyaa G V" width="600" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Building+AI-native+systems+from+scratch+%F0%9F%9A%80;Agentic+pipelines+%7C+Full-Stack+%7C+Cloud+%7C+Robotics;Competitive+Programmer+%7C+Problem+Solver+%F0%9F%A7%A9;Martial+Artist+%7C+Discipline+On+and+Off+the+Mat+%F0%9F%A5%8B;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
 
