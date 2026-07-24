@@ -28,8 +28,8 @@
 <summary><b>⚡ More about me — click to expand</b></summary>
 <br/>
 
-- 🔭 Currently building **agentic ingest pipelines** that turn messy supplier files into clean, traced product data
-- 🌱 Deep-diving into **LLM orchestration**, **provenance systems**, and **self-correcting agents**
+- 🔭 Currently exploring **agentic tools like Google ADK** and **test automation**
+- 🌱 Deep-diving into **LLM orchestration**, **agentic workflows**, and **self-correcting agents**
 - 🤖 Robotics side: **ROS2** navigation stacks on **Raspberry Pi** + **Arduino** hardware
 - 🧩 Competitive programming keeps my **DSA** sharp — always chasing cleaner solutions
 - 💬 Ask me about **Python**, **FastAPI**, **agentic AI**, or **system design**
@@ -84,18 +84,17 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijay-athithyaa-GV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-athithyaa-GV&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijay-athithyaa-GV&theme=tokyonight" width="820" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vijay-athithyaa-GV&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vijay-athithyaa-GV&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vijay-athithyaa-GV&theme=tokyonight" height="200" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijay-athithyaa-GV&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vijay-athithyaa-GV&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vijay-athithyaa-GV&theme=tokyonight&utcOffset=5.5" height="200" />
 </div>
 
 ---
