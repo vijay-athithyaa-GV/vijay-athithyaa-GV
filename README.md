@@ -4,7 +4,6 @@
 
 <p><em>Building AI-native systems that replace manual workflows with agentic intelligence.</em></p>
 
-<img src="https://komarev.com/ghpvc/?username=vijay-athithyaa-GV&label=Profile+Views&color=6E40C9&style=flat" alt="Profile views" />
 
 </div>
 
