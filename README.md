@@ -1,25 +1,30 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Vijay%20Athithyaa%20G%20V&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Agentic%20Systems%20%7C%20Full-Stack%20%7C%20Robotics&descAlignY=58&descSize=18" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Vijay+%F0%9F%91%8B;Software+Engineer;AI+%26+Agentic+Systems+Builder;Full-Stack+%7C+Cloud+%7C+LLMs" alt="Typing SVG" />
-
-<p><em>Building AI-native systems that replace manual workflows with agentic intelligence.</em></p>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Building+AI-native+systems+from+scratch+%F0%9F%9A%80;Agentic+pipelines+%7C+Full-Stack+%7C+Cloud+%7C+Robotics;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## About Me
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- Designing **agentic AI pipelines** — self-correcting, provenance-traced, and built for the long tail
-- Full-stack engineer: **React + TypeScript** on the front, **FastAPI + Python** on the back
-- Deep on **GCP** (Cloud Run, GKE, Cloud Build) + **Docker / Terraform** for infra
-- Current mission: AI-native Product Data Management — agents that own, evolve, and govern product data autonomously
-- Open to collaborating on **AI/ML projects**, **developer tooling**, and **data infrastructure**
+### About Me
+
+- Designing **agentic AI pipelines** — self-correcting, provenance-traced, built for scale
+- Full-stack engineer: **React + FastAPI**, cloud-native on **AWS & GCP**
+- Robotics enthusiast — **ROS2**, **Arduino**, **Raspberry Pi** in the field
+- Exploring **TensorFlow** and **Google ADK** for AI-first product systems
+- Open to collaborating on **AI/ML**, **developer tooling**, and **data infrastructure**
+
+<br clear="right"/>
 
 ---
 
-## Tech Stack
+### Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -55,26 +60,46 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijay-athithyaa-GV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-athithyaa-GV&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vijay-athithyaa-GV&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijay-athithyaa-GV&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
 
-## LeetCode
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijay-athithyaa-GV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-athithyaa-GV&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vijay-athithyaa-GV&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vijay-athithyaa-GV&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+</div>
+
+---
+
+### Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijay-athithyaa-GV&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+### Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vijay-athithyaa-GV/vijay-athithyaa-GV/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+### LeetCode
 
 <div align="center">
   <a href="https://leetcode.com/user7687NY/" target="_blank">
@@ -84,14 +109,22 @@
 
 ---
 
-## Connect
+### Connect
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/vijay-athithyaa-g-v/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://leetcode.com/user7687NY/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
+&nbsp;
 <a href="mailto:g.v.vijayathithya@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=footer" />
