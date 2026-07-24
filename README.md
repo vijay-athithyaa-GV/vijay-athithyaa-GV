@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Vijay%20Athithyaa%20G%20V&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Agentic%20Systems%20%7C%20Competitive%20Programmer%20%7C%20Robotics&descAlignY=58&descSize=18" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Building+AI-native+systems+from+scratch+%F0%9F%9A%80;Agentic+pipelines+%7C+Full-Stack+%7C+Cloud+%7C+Robotics;Competitive+Programmer+%7C+Problem+Solver+%F0%9F%A7%A9;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=6E40C9&center=true&vCenter=true&width=850&height=80&lines=Vijay+Athithyaa+G+V" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Building+AI-native+systems+from+scratch+%F0%9F%9A%80;Agentic+pipelines+%7C+Full-Stack+%7C+Cloud+%7C+Robotics;Competitive+Programmer+%7C+Problem+Solver+%F0%9F%A7%A9;Martial+Artist+%7C+Discipline+On+%26+Off+the+Mat+%F0%9F%A5%8B;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
 
 </div>
 
@@ -147,4 +147,8 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=footer" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%E2%AD%90;Let's+build+something+great+together+%F0%9F%9A%80" alt="Footer" />
+
+</div>
