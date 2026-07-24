@@ -80,17 +80,8 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijay-athithyaa-GV&theme=tokyonight" width="820" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vijay-athithyaa-GV&theme=tokyonight" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vijay-athithyaa-GV&theme=tokyonight" height="200" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vijay-athithyaa-GV&theme=tokyonight" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vijay-athithyaa-GV&theme=tokyonight&utcOffset=5.5" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vijay-athithyaa-GV&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vijay-athithyaa-GV&theme=tokyonight&utcOffset=5.5" height="180" />
 </div>
 
 ---
@@ -106,11 +97,7 @@
 ### Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijay-athithyaa-GV/vijay-athithyaa-GV/output/github-contribution-grid-snake-dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijay-athithyaa-GV/vijay-athithyaa-GV/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/vijay-athithyaa-GV/vijay-athithyaa-GV/output/github-contribution-grid-snake-dark.gif" />
-  </picture>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/vijay-athithyaa-GV/vijay-athithyaa-GV/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
