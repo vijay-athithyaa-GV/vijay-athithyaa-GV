@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ### About Me
 
@@ -103,21 +103,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=55&text=%F0%9F%8F%86%20LeetCode%20Arena&fontSize=22&fontColor=fff" />
-
-<br/>
-
 <a href="https://leetcode.com/user7687NY/" target="_blank">
-  <img src="https://img.shields.io/badge/Profile-user7687NY-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-user7687NY-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Active%20Grinder-00b300?style=for-the-badge&logo=leetcode&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://leetcode.com/user7687NY/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/user7687NY?theme=dark&font=Fira+Code&ext=activity&border=0&radius=12" width="520" alt="LeetCode Stats" />
-</a>
 
 </div>
 
