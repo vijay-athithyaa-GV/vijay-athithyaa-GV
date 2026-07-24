@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Building+AI-native+systems+from+scratch+%F0%9F%9A%80;Agentic+pipelines+%7C+Full-Stack+%7C+Cloud+%7C+Robotics;Competitive+Programmer+%7C+Problem+Solver+%F0%9F%A7%A9;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
 
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+
 </div>
 
 ---
@@ -19,6 +23,19 @@
 - Open to collaborating on **AI/ML**, **developer tooling**, and **data infrastructure**
 
 <br clear="right"/>
+
+<details>
+<summary><b>⚡ More about me — click to expand</b></summary>
+<br/>
+
+- 🔭 Currently building **agentic ingest pipelines** that turn messy supplier files into clean, traced product data
+- 🌱 Deep-diving into **LLM orchestration**, **provenance systems**, and **self-correcting agents**
+- 🤖 Robotics side: **ROS2** navigation stacks on **Raspberry Pi** + **Arduino** hardware
+- 🧩 Competitive programming keeps my **DSA** sharp — always chasing cleaner solutions
+- 💬 Ask me about **Python**, **FastAPI**, **agentic AI**, or **system design**
+- ⚡ Fun fact: I believe the best code is the code you can delete and rebuild better
+
+</details>
 
 ---
 
