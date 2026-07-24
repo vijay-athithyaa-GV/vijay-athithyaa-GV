@@ -17,7 +17,7 @@
 ### About Me
 
 - Designing **agentic AI pipelines** — self-correcting, provenance-traced, built for scale
-- Full-stack engineer: **React + FastAPI**, cloud-native on **AWS & GCP**
+- Full-stack engineer: **React + FastAPI**, cloud-native on **AWS**
 - Robotics enthusiast — **ROS2**, **Arduino**, **Raspberry Pi** in the field
 - Exploring **TensorFlow** and **Google ADK** for AI-first product systems
 - Open to collaborating on **AI/ML**, **developer tooling**, and **data infrastructure**
