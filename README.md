@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Vijay%20Athithyaa%20G%20V&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Agentic%20Systems%20%7C%20Full-Stack%20%7C%20Robotics&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Vijay%20Athithyaa%20G%20V&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Agentic%20Systems%20%7C%20Competitive%20Programmer%20%7C%20Robotics&descAlignY=58&descSize=18" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Building+AI-native+systems+from+scratch+%F0%9F%9A%80;Agentic+pipelines+%7C+Full-Stack+%7C+Cloud+%7C+Robotics;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Building+AI-native+systems+from+scratch+%F0%9F%9A%80;Agentic+pipelines+%7C+Full-Stack+%7C+Cloud+%7C+Robotics;Competitive+Programmer+%7C+Problem+Solver+%F0%9F%A7%A9;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
 
 </div>
 
@@ -99,12 +99,26 @@
 
 ---
 
-### LeetCode
+### Competitive Programming
 
 <div align="center">
-  <a href="https://leetcode.com/user7687NY/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/user7687NY?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=55&text=%F0%9F%8F%86%20LeetCode%20Arena&fontSize=22&fontColor=fff" />
+
+<br/>
+
+<a href="https://leetcode.com/user7687NY/" target="_blank">
+  <img src="https://img.shields.io/badge/Profile-user7687NY-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Active%20Grinder-00b300?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://leetcode.com/user7687NY/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/user7687NY?theme=dark&font=Fira+Code&ext=activity&border=0&radius=12" width="520" alt="LeetCode Stats" />
+</a>
+
 </div>
 
 ---
